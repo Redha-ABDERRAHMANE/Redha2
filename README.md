@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Redha2
 - 👀 I’m interested in everything that could help me be more productive
-- 🌱 I’m currently learning to use Python, i'm still new to the scene
-- 💞️ I’m looking to collaborate on " " for the moment
+- 🌱 I’m currently learning to use C, i'm still new to the scene
 - 📫 How to reach me: chbmy2003@gmail.com
 
 <!---
